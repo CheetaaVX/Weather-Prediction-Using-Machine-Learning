@@ -19,7 +19,7 @@ st.markdown("""
 <hr>
 """, unsafe_allow_html=True)
 
-# add weather api key here
+# add weather api key here(https://openweathermap.org/api)
 API_KEY = ""
 
 st.subheader(" Enter City for Live Weather")
